@@ -3,4 +3,4 @@
 ## Progrma para calcular la potencia x a la y 
 
 ### Diagrama de flujo
-! [diagrama de flujo](diagrma.png "Diagrama de flujo")
+![diagrama](diagrama.png)
